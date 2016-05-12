@@ -10,6 +10,7 @@
 
 # IDEs and editors
 /.idea
+*.sublime-workspace
 
 # misc
 /.sass-cache
