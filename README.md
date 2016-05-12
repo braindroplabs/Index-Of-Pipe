@@ -2,7 +2,7 @@
 
 IndexOfPipe is a hybrid approach of Angular 1's "Filter Filter"
 
-View the accompanying article at www.derekknox.com/articles/angular-2-index-of-pipe/
+View the accompanying article at http://derekknox.com/articles/angular-2-index-of-pipe/
 
 ##*Notes
 
