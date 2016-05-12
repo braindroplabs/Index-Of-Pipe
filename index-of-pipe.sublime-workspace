@@ -1,0 +1,1025 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ca",
+				"canvasSettings	property"
+			],
+			[
+				"item",
+				"itemProp	parameter"
+			],
+			[
+				"Ob",
+				"Observable	alias"
+			],
+			[
+				"c",
+				"canvasArtboard	property"
+			],
+			[
+				"UIEve",
+				"UIEvent	interface"
+			],
+			[
+				"Event",
+				"EventTarget	interface"
+			],
+			[
+				"read",
+				"readerEvt	parameter"
+			],
+			[
+				"ima",
+				"imageSettings	property"
+			],
+			[
+				"im",
+				"imageSettings	property"
+			],
+			[
+				"filt",
+				"filterSettings	property"
+			],
+			[
+				"img",
+				"imageSettings	property"
+			],
+			[
+				"ipm",
+				"implements	keyword"
+			],
+			[
+				"de",
+				"detectChanges	method"
+			],
+			[
+				"sel",
+				"selectableBody	property"
+			],
+			[
+				"imp",
+				"implements	keyword"
+			],
+			[
+				"sele",
+				"selectedFilter	property"
+			],
+			[
+				"Even",
+				"EventEmitter	alias"
+			],
+			[
+				"Sel",
+				"SelectableDirective	alias"
+			],
+			[
+				"function",
+				"Function	interface"
+			],
+			[
+				"hit",
+				"hitList"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"retu",
+				"returnVal"
+			],
+			[
+				"hig",
+				"highlightBar"
+			],
+			[
+				"update",
+				"updateHighlight"
+			],
+			[
+				"list",
+				"listHits"
+			],
+			[
+				"high",
+				"highlight-bar"
+			],
+			[
+				"clean",
+				"cleanTemps"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"temp",
+				"tempInherited"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"defa",
+				"defaultSettings"
+			],
+			[
+				"backgroud",
+				"background-color"
+			],
+			[
+				"Edi",
+				"EditorGUILayout	EditorGUILayout"
+			],
+			[
+				"pare",
+				"parentOffsetDiff"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"Sc",
+				"ScrubbingSpeed"
+			],
+			[
+				"slider",
+				"sliderWidth"
+			],
+			[
+				"docu",
+				"documentOverlay"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"per",
+				"percentY"
+			],
+			[
+				"perc",
+				"percentX"
+			],
+			[
+				"cu",
+				"currAmount"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/app/index-of-pipe.component.ts",
+			"settings":
+			{
+				"buffer_size": 4376,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/index-of-pipe.component.html",
+			"settings":
+			{
+				"buffer_size": 725,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/index-of-pipe.component.css",
+			"settings":
+			{
+				"buffer_size": 382,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/shared/pipes/index-of.pipe.ts",
+			"settings":
+			{
+				"buffer_size": 525,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/system-config.ts",
+			"settings":
+			{
+				"buffer_size": 1516,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"last_filter": "HtmlP",
+		"selected_items":
+		[
+			[
+				"HtmlP",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"html",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: snippet_unity_class"
+			],
+			[
+				"install",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Omni",
+				"OmniSharpSublime: Goto Definition"
+			],
+			[
+				"Omnishar",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"Oni",
+				"OmniSharpSublime: Clean"
+			],
+			[
+				"OmnisharpSublime: Reloa",
+				"OmniSharpSublime: Reload Solution"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 310.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/dknox/Docs/GitHub/Index-Of-Pipe",
+		"/C/Users/dknox/Docs/GitHub/Index-Of-Pipe/src",
+		"/C/Users/dknox/Docs/GitHub/Index-Of-Pipe/src/app/shared/pipes"
+	],
+	"file_history":
+	[
+		"/C/Users/dknox/Docs/GitHub/Index-Of-Pipe/src/app/index-of-pipe.component.css",
+		"/C/Users/dknox/Docs/GitHub/Index-Of-Pipe/src/app/index-of-pipe.component.html",
+		"/C/Users/dknox/Docs/GitHub/Index-Of-Pipe/src/app/shared/index.ts",
+		"/C/Users/dknox/Docs/GitHub/Index-Of-Pipe/src/app/shared/pipes/index-of.pipe.ts",
+		"/C/Users/dknox/Docs/GitHub/Index-Of-Pipe/src/app/shared/pipes/index-of.pipe.spec.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/shared/pipes/index-of.pipe.spec.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/main/image-select/image-select.component.html",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/main/image-select/image-select.component.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/main/canvas-select/canvas-select.component.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/shared/pipes/index-of.pipe.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/shared/services/generate-image.service.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/shared/services/edit-settings.service.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/main/canvas-select/canvas-select.component.html",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/main/text-select/text-select.component.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/dist/vendor/lodash/_baseClamp.js",
+		"/C/inetpub/angular2experiment/angular-2-experiment/dist/vendor/lodash/clamp.js",
+		"/C/inetpub/angular2experiment/angular-2-experiment/angular-cli-build.js",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/system-config.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/app.component.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/dist/vendor/lodash/lodash.js",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/main/main.component.html",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/main/main.component.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/dist/system-config.js",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/style.css",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/main/logo-select/logo-select.component.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/main/image-select/image-select.component.css",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/main/logo-select/logo-select.component.html",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/main/logo-select/logo-select.component.css",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/main/filters-select/filters-select.component.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/main/filters-select/filters-select.component.html",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/main/filters-select/filters-select.component.css",
+		"/C/inetpub/angular2experiment/angular-2-experiment/package.json",
+		"/C/inetpub/angular2experiment/angular-2-experiment/node_modules/lodash/index.js",
+		"/C/inetpub/angular2experiment/angular-2-experiment/node_modules/lodash/lodash.js",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/index.html",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/main/sizes-select/sizes-select.component.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/main/sizes-select/sizes-select.component.html",
+		"/C/Users/dknox/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/inetpub/angular2experiment/angular-2-experiment/typings.json",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/main/text-select/text-select.component.html",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/shared/directives/selectable.directive.ts",
+		"/C/Users/dknox/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Users/dknox/AppData/Roaming/Sublime Text 3/Packages/TypeScript/Preferences.sublime-settings",
+		"/C/Users/dknox/AppData/Roaming/Sublime Text 3/Packages/TypeScript/TypeScript.sublime-settings",
+		"/C/Users/dknox/AppData/Roaming/Sublime Text 3/Packages/User/TypeScript.sublime-settings",
+		"/C/Users/dknox/AppData/Roaming/Sublime Text 3/Packages/TypeScript/TypeScriptReact.sublime-settings",
+		"/C/Users/dknox/AppData/Roaming/Sublime Text 3/Packages/User/TypeScriptReact.sublime-settings",
+		"/C/Users/dknox/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/dknox/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/dknox/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/dknox/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/main/text-select/text-select.component.css",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/main/shared/control-panel/control-panel.component.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/main/sizes-select/sizes-select.component.css",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/app.component.css",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/main/shared/control-panel/control-panel.component.css",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/shared/index.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/shared/directives/selected.directive.spec.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/shared/directives/selected/selected.component.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/main/main.component.css",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/main/shared/control-panel/control-panel.component.html",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/shared/nav/nav.component.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/dist/app/shared/nav/nav.component.js",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/nav/nav.component.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/.clang-format",
+		"/C/inetpub/angular2experiment/angular-2-experiment/dist/main.js",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/app.component.spec.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/main.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/index.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/app.component.html",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/angular-2-experiment.component.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/angular-2-experiment.component.html",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/nav/index.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/src/app/dk-body/dk-body.component.ts",
+		"/C/inetpub/angular2experiment/angular-2-experiment/dist/index.html",
+		"/C/inetpub/derekknox.com/head-open.php",
+		"/C/inetpub/derekknox.com/footer-open.php",
+		"/C/inetpub/derekknox.com/index.php",
+		"/C/inetpub/derekknox.com/assets/css/core/style.css",
+		"/C/inetpub/derekknox.com/assets/js/core/derekknox.js",
+		"/C/inetpub/derekknox.com/page-end.php",
+		"/C/inetpub/derekknox.com/temp/biz/index.php",
+		"/C/inetpub/derekknox.com/temp/biz/assets/css/biz.css",
+		"/C/inetpub/derekknox.com/temp/biz/assets/js/biz.js",
+		"/C/inetpub/derekknox.com/articles/30-days-of-design-experiments/index.php",
+		"/C/Users/dknox/Docs/Projects/Unity/spike - Emmisive Material Experiment/Assets/Scripts/ScaleOscillate.cs",
+		"/C/Users/dknox/Docs/Projects/Unity/spike - Emmisive Material Experiment/Assets/Scale Oscillate.cs",
+		"/C/Users/dknox/Docs/Projects/Unity/spike - Emmisive Material Experiment/Assets/Scale Oscilate.cs",
+		"/C/Users/dknox/Docs/Projects/Python Scripts/SandpointFactualBusinesses-1-500.json",
+		"/C/Users/dknox/Docs/Projects/Python Scripts/ClarkstonFactualBusinesses-1-500.json",
+		"/C/Users/dknox/Docs/Projects/Python Scripts/VancouverFactualBusinesses-1-500.json",
+		"/C/Users/dknox/Docs/Projects/Python Scripts/BoiseFactualBusinesses-1-500.json",
+		"/C/Users/dknox/Docs/Projects/Python Scripts/EugeneFactualBusinesses-1-100.json",
+		"/C/Users/dknox/Docs/Projects/Python Scripts/LewistonFactualBusinesses-1-500.json",
+		"/C/Users/dknox/Docs/Projects/Python Scripts/McCallFactualBusinesses-1-500.json",
+		"/C/Users/dknox/Docs/Projects/Python Scripts/KelloggFactualBusinesses-1-100.json",
+		"/C/inetpub/derekknox.com/temp/biz/js/index.js",
+		"/C/inetpub/derekknox.com/temp/biz/css/style.css",
+		"/C/inetpub/derekknox.com/temp/biz/index.html",
+		"/C/inetpub/derekknox.com/temp/biz/json/ClarkstonFactualBusinesses-1-500.js",
+		"/C/Users/dknox/Docs/Projects/Python Scripts/BoiseFactualBusinesses-1-50.json",
+		"/C/inetpub/derekknox.com/Gruntfile.js",
+		"/C/inetpub/derekknox.com/temp/biz/json/KelloggFactualBusinesses-1-100.js",
+		"/C/inetpub/derekknox.com/temp/biz/json/KelloggFactualBusinesses-1-100.json",
+		"/C/inetpub/derekknox.com/temp/biz/json/McCallFactualBusinesses-1-500.js",
+		"/C/inetpub/derekknox.com/work/index.php",
+		"/C/inetpub/crossyword.com/index.html",
+		"/C/inetpub/crossyword.com/press/index.html",
+		"/C/inetpub/derekknox.com/head-social.php",
+		"/C/inetpub/derekknox.com/about/index.php",
+		"/C/inetpub/derekknox.com/nav.php",
+		"/C/inetpub/derekknox.com/sitemap/index.php",
+		"/C/inetpub/derekknox.com/sitemap.xml",
+		"/C/inetpub/derekknox.com/portfolio/index.php",
+		"/C/Users/dknox/Docs/GitHub/Slurve-js/README.md",
+		"/C/inetpub/derekknox.com/articles/slurve-js/index.php",
+		"/C/inetpub/slurvejs/Gruntfile.js",
+		"/C/inetpub/slurvejs/index.html",
+		"/C/Users/dknox/Docs/Projects/Web/Sites/unitytip.com/source/index.html",
+		"/C/inetpub/derekknox.com/articles/rad-four-process/index.php",
+		"/C/inetpub/derekknox.com/articles/anatomy-of-visual-design/index.php",
+		"/C/inetpub/derekknox.com/articles/index.php",
+		"/C/inetpub/derekknox.com/lab/360slider/index.php",
+		"/C/inetpub/derekknox.com/lab/index.php",
+		"/C/inetpub/derekknox.com/lab/360slider/assets/css/360slider.css",
+		"/C/inetpub/derekknox.com/footer-close.php",
+		"/C/inetpub/derekknox.com/products/crossyword/index.php",
+		"/C/inetpub/derekknox.com/assets/css/prod.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\inetpub\\angular2experiment\\angular-2-experiment\\src\\app\\main",
+			"C:\\inetpub\\angular2experiment\\angular-2-experiment\\src\\app",
+			"C:\\inetpub\\angular2experiment\\angular-2-experiment\\src",
+			"C:\\inetpub\\angular2experiment\\angular-2-experiment",
+			"C:\\inetpub\\angular2experiment\\angular-2-experiment\\src",
+			"C:\\inetpub\\angular2experiment\\angular-2-experiment",
+			"C:\\inetpub\\derekknox.com",
+			"C:\\inetpub\\unity-dash",
+			"C:\\inetpub\\unity-dash\\assets\\js\\scripts",
+			"C:\\inetpub\\unity-dash\\views",
+			"C:\\inetpub\\unity-dash",
+			"C:\\inetpub\\unity-dash\\assets",
+			"C:\\inetpub\\unity-dash",
+			"C:\\inetpub\\derekknox.com\\temp\\unity-api-exercise\\versatile-dashboard-theme-master\\app",
+			"C:\\inetpub\\derekknox.com\\temp\\unity-api-exercise\\versatile-dashboard-theme-master\\app\\views",
+			"C:\\inetpub\\derekknox.com\\temp\\unity-api-exercise\\versatile-dashboard-theme-master\\app\\styles",
+			"C:\\inetpub\\derekknox.com\\temp\\unity-api-exercise\\versatile-dashboard-theme-master\\app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"XXX",
+			"w=1925",
+			"w=1080",
+			"h=1000",
+			"editSettings",
+			"changeDetectionRef",
+			"clamp",
+			"lodash",
+			"selectedFile",
+			"hasGraphicHidden",
+			"onInsertGraphic",
+			"selectables",
+			"ngClass",
+			"comment",
+			"text",
+			"ngClass",
+			"__name__.directive.spec.ts",
+			"clang-format",
+			"index.ts",
+			"biz.js:27 ",
+			"'",
+			"Link not live",
+			"twitter",
+			"meta property=\"og:title\"",
+			"#99cc33",
+			"No Link (no longer live)",
+			"unitytip",
+			"Lead Interactive Developer",
+			"lead ",
+			"Home",
+			"example-curved",
+			"sharp",
+			"<em>slurved</em>",
+			"gameobject",
+			"Nectar Music Icon Experiment",
+			"nectar-music-icons-experiment-",
+			"’",
+			"’t",
+			"’s",
+			"border: none;",
+			"flush",
+			"borderless",
+			"border",
+			"The&#160;Anatomy&#160;of&#160;Visual&#160;Design&#160;-&#160;Elements,&#160;Principles,&#160;and&#160;Constructs",
+			"The Anatomy of Visual Design - Elements, Principles, and Constructs",
+			"unveil",
+			"Press%20Request",
+			"h3",
+			"line-h",
+			"caps",
+			".main",
+			"500+",
+			"nav-icon3",
+			"highlight-bar",
+			".core-page img",
+			"</script></code",
+			"px",
+			" type=\"prism-html-markup\"",
+			" type=\"prism-css\"",
+			" ",
+			" type=\"prism-html-markup\"",
+			" ",
+			"currY < dotS",
+			"<span class=\"token punctuation\">&lt;</span>CIRCLE</span><span class=\"token punctuation\">&gt;</span>",
+			" ",
+			"img",
+			"slurve-classes=\"",
+			"slurve=\"",
+			"<ul",
+			"</br>",
+			"<br",
+			" type=\"image/png\"",
+			"\"active\"",
+			" type=\"image/png\"",
+			"type=\"image/png\"",
+			"Slurve | ",
+			"svg",
+			"Your DOM here.",
+			"border",
+			"borderless",
+			"dom",
+			"Intermediate Setup",
+			"intermediate-setup",
+			"JS",
+			"-1",
+			"slurve-gradient",
+			"advanced",
+			"ScrubbingSpeed.js - Variable Scrubbing Speed Slider",
+			"your DOM here",
+			"Slurve",
+			"in Your UI",
+			"slurve-style-2",
+			"Hi",
+			"h6",
+			"Slurve.js",
+			"co-ordinate",
+			"Style Setup",
+			"style-setup",
+			"improved",
+			"improved-setup",
+			"start",
+			"Getting Started",
+			"h2",
+			"<h2",
+			"ScrubbingSpeed.js - Variable Scrubbing Speed Slider",
+			"grunt-contrib-watch",
+			"collapsed",
+			"2015",
+			"[at] derekknox.com",
+			"derekknox",
+			"derekknox@derekknox",
+			"interactive developer",
+			"prism.css",
+			"swfobject.js",
+			"prism.js",
+			"assets/js/swfobject.js",
+			"swfobject.js",
+			"ga.js",
+			": What and Why",
+			"Delegator",
+			"unity-collision-detection-without-physics-in-25s",
+			"Unity Collision Detection in 25 Seconds",
+			"Effecient Event Delegation in Unity",
+			"An Effecient Event Delegation",
+			"#eee",
+			"li ",
+			"li",
+			"eee"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"nature, plant, eye, thorn, green",
+			"building, russia, architecture",
+			"rose, gift, petal, flower, scent, drawer, white",
+			"iphone, tech, habit, people, screen",
+			"cliffs, nature, outdoors, clouds, rocks",
+			"city, bridge, outside, structures",
+			"sky, skyline, new york, buildings, water",
+			"mountains, sky, blue, rocky, nature",
+			"rose, gift, petal, flower, scent",
+			"snow, winter, cold, nature, outside, chairs, ski, snowboard",
+			"nature, mountains, snow, sky, cold, winter",
+			"water, ocean, rocks, nature, sky, sun",
+			"w=200",
+			"h=100",
+			"editSettingsService",
+			"isGraphicHidden",
+			"logo",
+			"",
+			"\"",
+			"Link no longer live",
+			"Link not live",
+			"example-curve",
+			"slant",
+			"Vocabulist Icon Sketches",
+			"vocabulist-icons-experiment-",
+			"'",
+			"'t",
+			"'s",
+			"flush",
+			"30&#160;Days&#160;of&#160;Design&#160;Experiments",
+			"30 Days of Design Experiments",
+			"Request%20Press%20Copy",
+			"h4",
+			"uppercase",
+			"nav-icon",
+			"",
+			"&#160;",
+			"",
+			"&#160;",
+			"&lt;circle&gt;",
+			"&#160;",
+			"data-slurve-classes=\"",
+			"data-slurve=\"",
+			"<br>",
+			"",
+			"'class=\"active\"'",
+			"",
+			"Your HTML here.",
+			"Basic Style",
+			"basic-style",
+			"JavaScript",
+			"-8",
+			"-7",
+			"-6",
+			"-5",
+			"-4",
+			"-3",
+			"-2",
+			"slurve.js - Beautiful Slants and Curves in Web UIs",
+			"in Web UIs",
+			"slurve-style-gradient",
+			"Slurve",
+			"slurve.js",
+			"coordinate",
+			"intermediate-setup",
+			"style-setup",
+			"basic-setup",
+			"Basic Setup",
+			"Slurve.js - Beautiful Slants and Curves in Your UI",
+			"libs/prism.css",
+			"assets/js/libs/swfobject.js",
+			"",
+			"an-efficient-event-delegation-approach-in-unity",
+			"An Efficient Event Delegation Approach in Unity",
+			"/scripts/",
+			"assets/views",
+			"js/views",
+			"js/app",
+			"dashApp",
+			"getFocusedEditSubGroupAndInherited",
+			"focusedSubGroup",
+			"settingsGroupInFocusList",
+			"ModelsSrvc",
+			"\"setting_id\": \"2\"",
+			"\"setting_id\": \"1\"",
+			"\"setting_id\": \"0\"",
+			"settingsGroupInFocus",
+			"settings",
+			"stats",
+			"Enemy Respawn Time",
+			"Maximum Enemy Count",
+			"\"settings_list\"",
+			"settings_list",
+			"http://www.api.domain.com",
+			"settings",
+			"\"id\": \"1\"",
+			"\"id\": \"0\"",
+			"response",
+			"	\"status\": { \"message\": \"Success\" },",
+			"\\t\"status\": { \"code\": 1, \"message\": \"Success\" },",
+			"\"status\": { \"code\": 1, \"message\": \"Success\" },",
+			"\"status\": { \"code\": 1,\"message\": \"Success\" },",
+			"\"status\": { \"code\": 1, \"message\": \"Success\" },",
+			"id",
+			"settings",
+			"",
+			"class=\"ss-label\"",
+			"knobHeight",
+			"knobWidth",
+			"scrubbing-speed-slider",
+			"<em>Bad</em>",
+			"<em>Good</em>",
+			"assets/img/test.png",
+			"<img src=\"xxx\" alt=\"\" class=\"img-responsive\">",
+			"scrubbing-speed-js",
+			"ScrubbingSpeed.js - Variable Scrubbing Speed Slider",
+			".4s",
+			"Scrub",
+			"offsetScrubX",
+			"trackHeight",
+			"trackWidth",
+			"scrubbing-speed-container",
+			"data-ss-color",
+			"$ss",
+			"window.innerHeight",
+			"document",
+			"$ss"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/app/index-of-pipe.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4376,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3804,
+								3804
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/app/index-of-pipe.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 725,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								651,
+								651
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/app/index-of-pipe.component.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								323,
+								323
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/app/shared/pipes/index-of.pipe.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 525,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								493,
+								493
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/system-config.ts",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "index-of-pipe.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\inetpub\\derekknox.com\\derekknox-website.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

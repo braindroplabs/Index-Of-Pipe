@@ -1,0 +1,28 @@
+.my-img-container {
+    text-align: center;
+}
+
+.my-img {
+    padding: 2px;
+    margin: 4px;
+    border: 1px solid #ccc;
+    display: inline-block;
+}
+
+.my-input {
+    display: block;
+    padding: 20px;
+    width: 300px;
+    margin: 25px auto;
+}
+
+.panel {
+    margin: 30px;
+    padding: 20px 30px;
+    background-color: #eee;
+}
+
+button {
+    padding: 10px 6px;
+    cursor: pointer;
+}

@@ -1,0 +1,12 @@
+<input type="text" class="my-input" placeholder="Type in Here to Filter the Images" value="{{imageSettings.filterQuery}}" (keyup)="onKeyUp($event)">
+
+<div class="my-img-container">
+    <img class="my-img" *ngFor="let img of (imageSettings.images | indexOf : ['name', 'tags'] : imageSettings.filterQuery)" [src]="img.url" [alt]="img.name">
+</div>
+
+<div class="panel">
+    <p>*The image urls are from <a href="https://unsplash.com/">Unsplash</a> but some of the accompanying data is modified for this demo.</p>
+    <p>*The Json below will help you know the property values to filter against.</p>
+    <button (click)="onToggleJson()">Toggle Json</button>
+    <pre *ngIf="isShowJson">{{imageSettings.images | json}}</pre>
+</div>
