@@ -11,11 +11,13 @@ export class IndexOfPipe implements PipeTransform {
 
 			//one time lowercase
 			target = target.toLowerCase();
-			
+
 			//property loop with match escape
 			let match;
-			for(let prop of props) {
-				match = item[prop].toLowerCase().indexOf(target) > -1;
+			let validItem;
+			for (let prop of props) {
+				validItem = item[prop];
+				match = validItem ? validItem.toLowerCase().indexOf(target) > -1 : -1;
 				if (match) { break; }
 			}
 
