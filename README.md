@@ -1,14 +1,14 @@
-#IndexOfPipe
+# IndexOfPipe
 
 IndexOfPipe is a hybrid approach of Angular 1's "Filter Filter"
 
 View the accompanying article at http://derekknox.com/articles/angular-2-index-of-pipe/
 
-##*Notes
+## *Notes
 
 None
 
-##License
+## License
 	
 	The MIT License (MIT)
 
@@ -32,7 +32,7 @@ None
 	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 	SOFTWARE.
 
-##Designed and Developed By
+## Designed and Developed By
 Derek Knox | Braindrop Labs
 
 [@derekknox](https://twitter.com/derekknox)
